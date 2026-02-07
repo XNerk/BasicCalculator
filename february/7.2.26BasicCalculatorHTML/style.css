@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+    background-color: gray;
+
+}
+
+.num1 {
+    background-color: beige;
+}
+
+.operator {
+    background-position: center;
+}
+
+.num2 {
+    position: relative;
+}
+
+.inputs {
+    justify-content: left;
+    display: flex;
+    gap: 20px;
+    position: relative;
+    background-color: gray;
+}
